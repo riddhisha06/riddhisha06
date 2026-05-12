@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+👋+I'm+Riddhisha+Srivastava;Frontend+Developer+%7C+Cloud+Enthusiast;AWS+Learner;Building+Scalable+Tech+Solutions+🚀&center=true&width=550&height=45">
 </p>
 
-<h1 align="center">Hey 👋 I'm Riddhisha Srivastav</h1>
+<h1 align="center">Hey 👋 I'm Riddhisha Srivastava</h1>
 <h3 align="center">💻 BTech CSE (Final Year) | 🌐 Frontend Developer | ☁️ Cloud Enthusiast</h3>
 
 ---
